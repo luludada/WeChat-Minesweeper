@@ -3,4 +3,4 @@ WeChat Mini-program minesweeper
 
 Demo:
 
-(demo.gif)
+(Demo.gif)
